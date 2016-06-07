@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Love ReSharper",
+    "packageVersion": "0.0.0",
+    "revealTheme": "sky",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "masakura",
+    "githubRepository": "resharper-slide"
+  }
+}
