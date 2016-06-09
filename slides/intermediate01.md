@@ -1,3 +1,3 @@
 ### 強力なリファクタリング
 
-ToDo スクリーンショット
+![Refactoring](resources/refactoring-rename.jpg)

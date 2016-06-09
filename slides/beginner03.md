@@ -1,3 +1,3 @@
 右側のバーをグリーンにすればそこそこなコードに
 
-ToDo スクリーンショット (レッドからグリーンにするイメージの)
+![Quick Fix](resources/code-fix.jpg) <!-- .element: style="width: 50%;" -->

@@ -1,3 +1,3 @@
 ### 強力なコード診断
 
-ToDo スクリーンショットを入れる
+![コード診断](resources/code-inspection.jpg) <!-- .element: style="width: 50%;" -->

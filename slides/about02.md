@@ -5,4 +5,4 @@
 * Attlasian 社や ZeroTurnaround 社製品も取り扱い
 * Twitter4J でお世話になった方もいらっしゃるのでは?
 
-![サムライズム](resources/copy-samuraism-header.png)
+![サムライズム](resources/samuraism.png)

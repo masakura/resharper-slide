@@ -1,3 +1,3 @@
 ### 強力なコード生成
 
-ToDo スクリーンショット
+![Generate Code](resources/code-generate.jpg)

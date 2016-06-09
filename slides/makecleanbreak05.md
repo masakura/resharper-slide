@@ -1,3 +1,3 @@
 ### コード・リーディングを支える
 
-ToDo スクリーンショット
+![Code Reading supporters](resources/code-reading.png)
